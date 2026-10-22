@@ -1,10 +1,12 @@
 噴射機音效
-遊戲獲勝
-https://github.com/user-attachments/assets/86238630-86a2-4e6b-a299-389bdc742bdc
-
-
 撞上障礙物
-https://github.com/user-attachments/assets/184abc14-c8bb-459d-896a-c8ecd66c7564
+
+https://github.com/user-attachments/assets/767a16e1-d00b-4a28-b985-a374c0cb73d2
+
+遊戲獲勝
+https://github.com/user-attachments/assets/950bed58-e9d3-46a9-8c1b-6353f88af550
+
+
 
 
 
